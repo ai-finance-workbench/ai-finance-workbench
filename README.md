@@ -1,4 +1,4 @@
-# Hi, I'm ENVYLin 👋
+# Hi, I'm  👋
 
 Exploring Python automation, OCR, browser automation, and AI-assisted workflows.
 
